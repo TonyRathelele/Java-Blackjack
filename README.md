@@ -1,3 +1,10 @@
+# Java game
+
+BScIT 3rd year assignment
+
+### IDE
+Netbeans
+
 # Description of Blackjack:
 Blackjack is a card game played against a casino dealer. The game's object is to collect cards in your hand whose total is as high as possible without going over 21. If the cards you hold beat the dealer's, you win!
 How Blackjack is played:
